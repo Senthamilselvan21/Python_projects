@@ -1,0 +1,16 @@
+x=119 ---Leftshift and rightshift
+
+256	128	64	32	16	8	4	2	1
+
+0	0	1	1	1	0	1	1	1
+
+Perfoming left shift------->
+
+0	0	1	1	1	0	1	1	1
+
+0	1	1	1	0	1	1	1	0
+
+Performing right shift---->
+
+0	0	0	1	1	1	0	1	1	
+

@@ -1,0 +1,87 @@
+Control Statements:
+1. Write a program to find a given number is even or odd?
+2. Write a program to find a given number is prime or not?
+3. Write a program to find a big number among two numbers?
+4. Write a program to find a small number among two numbers?
+5. Write a program to find a big number among three numbers?
+6. Write a program to find a small number among three numbers?
+7. Write a program to find the sum of digits of given number?
+8. Write a program to find the product of digits of given number?
+9. Write a program to reverse given number?
+10. Write a program to find the given number is palindrome or not?
+11. Write a program to find the given number is arm strong number or not?
+12. Write a program to find the given year is leap year or not?
+13. Write a program to print the below pattern?
+*
+* *
+* * *
+* * * *
+* * * * *
+14. Write a program to print the below pattern?
+* * * * *
+* * * *
+* * *
+* *
+*
+15. Write a program to print the below pattern?
+1
+2 2
+3 3 3
+4 4 4 4
+5 5 5 5 5 
+
+16. Write a program to print the below pattern?
+1
+1 2
+1 2 3
+1 2 3 4
+1 2 3 4 5
+17. Write a program to print the below pattern?
+i.
+55555
+4444
+333
+22
+1
+ii.
+12345
+1234
+123
+12
+1
+
+
+18. Write a program to find first 100 even numbers among 1000 numbers?
+19. Write a program to find first 100prime numbers among 1000 numbers?
+20. Write a program to basic calculator?
+15. Write program for multiplication table for 10?
+21. Write a program to calculate the gross salary of employee?
+22. Write a program to find the percentage of student for 6 subjects? 
+23. Write a program swap two numbers without using third variable?
+24. Write a program swap two numbers?
+25. Write a program to find the given number perfect number or not?
+26. Write a program to find the factorial of a given number?
+27. Write a program to find the Fibonacci series of a given number?
+28. Write a program to print the ASCII Table?
+29. Write a program to print the below pattern?
+1
+0 1
+1 0 1
+0 1 0 1
+30. Write a program to print the below pattern?
+* 
+* * 
+* * * 
+* * * * 
+* * * * * 
+* * * * 
+* * * 
+* * 
+*
+32. Write a program to check the given number is strong number?
+33. Write a program to check the vowels?
+34. Write a program to sum of 10 natural numbers?
+35.  Write a program to find a given number is positive or negative?
+36.  Write a program to enter input is alphabet or not?
+37. Write a program to find factors of number?
+38. Write a Python program that prints all the numbers from 0 to 8 except 2 and 7

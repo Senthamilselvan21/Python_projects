@@ -1,0 +1,6 @@
+records=(100,269,32,269,1000,269,22)
+print("Big in records:",max(records))
+print("small in records:",min(records))
+print("sum: ",sum(records))
+print("len: ",len(records))
+print("occurance: ",records.count(269))

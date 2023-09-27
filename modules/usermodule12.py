@@ -1,0 +1,11 @@
+import datetime
+today_date_time=datetime.datetime.now()
+current_time=today_date_time.time()
+print(current_time.hour)
+print(current_time.minute)
+print(current_time.second)
+print(current_time.microsecond)
+custom_date=datetime.date(2023,9,20)
+print(custom_date)
+future_date_time=current_time+datetime.timedelta(days=365)
+print(future_date_time)
