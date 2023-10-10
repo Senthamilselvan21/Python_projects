@@ -1,0 +1,87 @@
+operator is nothing but performing specific operation between operands.
+Example:
+a + b
+
+a,b are the operands
++ operator
+
+Operators are three types
+1.Unary OPerator
+2.Binary OPerator
+3.Ternary OPerator
+
+1.Arithmetic 
+	+    - use for addition
+	-    - use for substraction
+	*    - use for multiplicatio
+	/    - use for to get co-efficent with fraction
+	//   - use for to get co-efficent decimal
+	%   - use for to get reminder
+
+	i/p1  operator    i/p2     res
+	 5        +         2       7 
+	 5        -         2       3
+	 5        *         2       10
+	 5        /         2       2.5
+	 5        //        2       2
+	 5        %         2       1
+2.Relational
+	<	- less than
+	>	- greater than
+	<=	- less than equal to
+	>=	- greater than equal to
+	!=	- not equal to
+	==	- equal to equal to
+
+	i/p1  operator    i/p2     res
+	 5        <         2       F
+	 5        >         2       T
+	 5        <=        2       F
+	 5        >=        2       T
+	 5        !=        2       T
+	 5        ==        2       F
+
+
+3.Logical operator
+	and
+	or 
+	not
+
+	Truth Table
+	i/p1	i/p2	and o/p		or o/p		not o/p
+         F	F	F		F		T	
+         F	T	F		T		T
+         T	F	F		T		F
+         T	T	T		T		F
+
+	i/p1  operator    i/p2     res
+	 0        and       2       F
+	 5        or        2       T
+	 5        not       -       F
+
+4.Assignment
+Assignment operator is used to assign the data to the variables
+Note:
+	Always should be a L.H.S variable only present to Assignment Operator
+	R.H.S it might be a variable or value to Assignment Operator
+Ex:
+a=10
+b=20
+c=a
+10=a ---> wrong
+Short hand Assignment OPerator:
+	a=a+b    ---> a+=b
+	c=c-a	 ---> c-=a
+	d=d*r	 ---> d*=r
+	f=f/c	 ---> f/=c
+	g=g%k	 ---> g%=k
+5.Identity 
+In identity two types of opeartors are avilable
+	1.is
+	2.is not
+6.Membership
+	1.in
+	2.not in
+
+
+

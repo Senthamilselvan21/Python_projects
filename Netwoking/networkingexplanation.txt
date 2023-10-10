@@ -1,0 +1,55 @@
+1.IP Addressed
+2.TCP Protocol
+3.UDP Protocol
+IP Addresses
+i.public ip address ii.private ip address
+1.IPV4
+2.IPV6
+1.IPV4
+-----------
+32 Bit size
+
+  x.x.x.x
+  192.168.1.0
+ first 16 bits will provided by the American standard organisation
+ second 16 bits will provided by the vendor
+ 
+ x vendor fiber internet  - 16 american
+ 
+ 1 2 3   -16 bits 
+ 
+ Ip address classes
+ 1. Class A    1 TO 121
+ 2. Class B    122 TO 172
+ 3. Class C    173 TO 220
+ 4. Class D     221 TO 240 
+  5. Class E    240<
+  LOOPBACK IP ADDRESS 127.0.0.1
+  
+  1.X.X.X
+  1.1.20.30
+ A 10.X.X.X  PRIVATE
+  122.X.X.X
+ B 172.X.X.X PRIVATE
+  
+ C 192.X.X.X PRIVATE
+  
+  2^32
+  
+ 2.IPV6
+ -------
+ 128 bits
+ 64-amer
+ 64-vendor
+ 
+ mac address or physical address
+ 48-bits
+ 24-america
+ 24-vendor
+ 
+ port number
+ 1-65535
+ 1-1024
+ 22-ssh
+ 21-ftp
+ 80-http
